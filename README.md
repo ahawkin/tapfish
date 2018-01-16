@@ -11,6 +11,4 @@ Android game developed during my second year of University using Java and versio
 
 ## Previews
 
-<img width="250" style="margin-right: 5px;" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-1.png">
-<img width="250" style="margin-right: 5px;" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-2.png">
-<img width="250" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-3.png">
+<img width="250" style="margin-right: 5px;" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-1.png"> <img width="250" style="margin-right: 5px;" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-2.png"> <img width="250" alt="Tapfish main menu" src="https://raw.githubusercontent.com/ahawkin/personal-portfolio/master/assets/img/previews/tapfish-preview-3.png">
