@@ -1,7 +1,5 @@
 # Tapfish
 
-## Overview
-
 * **Module:** Software Development
 * **Date:** Year 2 (2014/2015)
 * **Status:** Complete
